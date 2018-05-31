@@ -12,3 +12,15 @@
   background-color: #fff;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.04);
 }
+.top-buffer {
+  margin-top: 40px;
+}
+.existing-products {
+  display: none;
+}
+.error-message {
+  opacity: 0;
+  color: red;
+  height: 30px;
+  margin-bottom: 0px;
+}
